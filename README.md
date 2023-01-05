@@ -1,9 +1,13 @@
 # ANN-merged-with-the-firefly-algorithm
-ANN merged with the firefly algorithm for time series prediction
+
+Title: ANN merged with the firefly algorithm for time series prediction
+
 Citation:
+
 Mohammadi B. (2023). Modeling various drought time scales via a merged artificial neural network with a firefly algorithm, Hydrology, XX, XX-XX. 
 https://doi.org/10.3390/xxxxx
- 
+
+
 Inpt file:
 "Data.xlsx" ---> includes 6 input variables (columns "A" to "F"), and a target variable (column "G").
 
