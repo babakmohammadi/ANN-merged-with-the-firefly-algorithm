@@ -4,8 +4,8 @@ Title: ANN merged with the firefly algorithm for time series prediction
 
 Citation:
 
-Mohammadi B. (2023). Modeling various drought time scales via a merged artificial neural network with a firefly algorithm, Hydrology, XX, XX-XX. 
-https://doi.org/10.3390/xxxxx
+Mohammadi B. (2023). 
+https://doi.org/
 
 
 Inpt file:
