@@ -22,5 +22,3 @@ https://doi.org/
 
 ![5](https://user-images.githubusercontent.com/122013773/210796847-bc15fb50-1ff1-430b-a9bd-b13e34330390.jpg)
 
-
-![6](https://user-images.githubusercontent.com/122013773/210796862-650660a8-9ffe-4259-85ad-cb77350d2889.jpg)
