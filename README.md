@@ -8,9 +8,6 @@ Mohammadi B. (2023).
 https://doi.org/
 
 
-Inpt file:
-"Data.xlsx" ---> includes 6 input variables (columns "A" to "F"), and a target variable (column "G").
-
 ![1](https://user-images.githubusercontent.com/122013773/210796760-9c62b2d4-cc0d-40d0-b680-b2e5db9c8665.jpg)
 
 
