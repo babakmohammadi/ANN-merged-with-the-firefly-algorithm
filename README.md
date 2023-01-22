@@ -14,5 +14,5 @@ https://doi.org/
 ![2](https://user-images.githubusercontent.com/122013773/210796795-4ad5e552-5813-41a4-b1a3-b85f71a51a7f.jpg)
 
 
-![5](https://user-images.githubusercontent.com/122013773/210796847-bc15fb50-1ff1-430b-a9bd-b13e34330390.jpg)
+![3](https://user-images.githubusercontent.com/122013773/210796847-bc15fb50-1ff1-430b-a9bd-b13e34330390.jpg)
 
