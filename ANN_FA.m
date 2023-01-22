@@ -27,7 +27,7 @@ netfa = newff(inputs,targets,hiddenLayerSize,TF);
 
 netfa.inputs{1}.processFcns = {'removeconstantrows','mapminmax'}; 
 netfa.outputs{2}.processFcns = {'removeconstantrows','mapminmax'};
-rng ('default')
+%rng ('default')
 %net.divideFcn = 'dividerand';
 %net.divideMode = 'sample'; 
 %net.divideParam.trainRatio = 85/100;
