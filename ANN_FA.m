@@ -12,9 +12,9 @@ clc;
 clear;
 
 % Load Data
-Data = xlsread('Data.xlsx');
-inputs = Data(:,1:end-1); inputs = inputs';
-targets = Data(:,end); targets = targets';
+Data = Load Data;
+inputs = choose train phase; inputs = inputs';
+targets = choose test sphase; targets = targets';
 
 FeatureNum=size(inputs,1);
 InputNum = size(inputs,2);
@@ -34,8 +34,8 @@ netfa.outputs{2}.processFcns = {'removeconstantrows','mapminmax'};
 %net.divideParam.valRatio = 15/100;
 %net.divideParam.testRatio = 0/100;
 
-trIndex =1:75;
-tsIndex =76:100;
+trIndex =number of train;
+tsIndex =number of test;
 Xtr = inputs(:,trIndex);
 Ytr = targets(:,trIndex); 
 
