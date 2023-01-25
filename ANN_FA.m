@@ -14,7 +14,7 @@ clear;
 % Load Data
 Data = Load Data;
 inputs = choose train phase; inputs = inputs';
-targets = choose test sphase; targets = targets';
+targets = choose test phase; targets = targets';
 
 FeatureNum=size(inputs,1);
 InputNum = size(inputs,2);
@@ -34,8 +34,8 @@ netfa.outputs{2}.processFcns = {'removeconstantrows','mapminmax'};
 %net.divideParam.valRatio = 15/100;
 %net.divideParam.testRatio = 0/100;
 
-trIndex =number of train;
-tsIndex =number of test;
+trIndex =number of train values;
+tsIndex =number of test values;
 Xtr = inputs(:,trIndex);
 Ytr = targets(:,trIndex); 
 
