@@ -3,8 +3,8 @@
 %%% 
 %%% Citation:
 %%% Mohammadi B. (2023). Modeling various drought time scales via a merged artificial neural
-%%% network with a firefly algorithm, Hydrology, XX, XX-XX. 
-%%% https://doi.org/10.3390/xxxxx
+%%% network with a firefly algorithm. Hydrology 2023, 10, 58.
+%%% https://doi.org/10.3390/hydrology10030058
 %%%
 %%%--------------------------------------------------------------------
 %%
